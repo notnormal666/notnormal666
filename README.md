@@ -37,7 +37,7 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=notnormal666&theme=shadow-red" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=notnormal666&theme=shadow-red&mode=weekly" alt="GitHub Streak" /></a>
 
 <h2 align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Coda&weight=900&size=26&duration=9999&pause=2000&color=F73522&center=true&vCenter=true&repeat=false&width=500&height=70&lines=My+Discord+is+CrayonMuncha" alt="Typing SVG" /></a>
